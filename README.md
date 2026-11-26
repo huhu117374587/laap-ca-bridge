@@ -5,7 +5,7 @@
 
 ## 文件映射
 
-| 桥内文件名 | 正式仓对应件 |
+| 桥内文件（`case/` 目录） | 正式仓对应件 |
 |---|---|
 | identity.md | 00_governance/_board/CA_首席顾问/CA_身份卡.md |
 | handoff.md | 00_governance/_board/CA_首席顾问/CA_HANDOFF.md |
@@ -20,13 +20,13 @@
 
 ## 阅读顺序
 
-1. `identity.md` — 你是谁、权界、禁项
-2. `handoff.md` — 上一任留下的事实与未结项（截至 2026-11-26 10:25）
-3. `card_097.md` — 本次要你裁的五问（唯一任务入口）
-4. `rep_092..096.md` — 五问的支撑件
-5. `template_card_v1.1.md` — 回件格式，必须照此十八节
-6. `ruling_90.md` — 上一份裁定，看你前任怎么落笔
-7. `open_items.tsv` / `reins.md` — 未结与主线锚
+1. `case/identity.md` — 你是谁、权界、禁项
+2. `case/handoff.md` — 上一任留下的事实与未结项（截至 2026-11-26 10:25）
+3. `case/card_097.md` — 本次要你裁的五问（唯一任务入口）
+4. `case/rep_092..096.md` — 五问的支撑件
+5. `case/template_card_v1.1.md` — 回件格式，必须照此十八节
+6. `case/ruling_90.md` — 上一份裁定，看你前任怎么落笔
+7. `case/open_items.tsv` / `case/reins.md` — 未结与主线锚
 
 ## 纪律
 
